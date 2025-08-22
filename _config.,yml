@@ -1,0 +1,4 @@
+title: Redirecting...
+theme: jekyll-redirect-from
+redirect_from:
+  - /redirect
